@@ -34,4 +34,5 @@ Hi, I'm Aziz, a passionate Full Stack Web Developer.
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/azizk17/blogAi/pull/1) in [azizk17/blogAi](https://github.com/azizk17/blogAi)
 <!--END_SECTION:activity-->
