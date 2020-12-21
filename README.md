@@ -1,12 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/website?label=syberany.com&style=for-the-badge&url=https%3A%2F%syberany.com)](https://syberany.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/azizk3a?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%azizk3a&screen_name=azizk3a)
+[![Twitter Follow](https://img.shields.io/twitter/follow/azizk3a?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%azizk17&screen_name=azizk3a)
 
 Hi, I'm Aziz, a passionate Full Stack Web Developer.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -29,6 +27,11 @@ Hi, I'm Aziz, a passionate Full Stack Web Developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizk17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![aziz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azizk17)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
